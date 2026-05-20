@@ -15,8 +15,6 @@ Load the github page to "play" the game
 |-------|-------|
 |`assets/images/jenga-tower.png` [2] | pngtree.com |
 |`assets/images/table-bg.jpg` [1] | vecteezy.com |
-Jenga image - pngtree.com
-Background image - vecteezy.com
 
 ## References
 
