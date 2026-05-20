@@ -13,8 +13,8 @@ Load the github page to "play" the game
 (List and attribute all non-original assets.)
 | File | Source
 |-------|-------|
-|`assets/images/jenga-tower.png` | pngtree.com |
-|`assets/images/table-bg.jpg | vecteezy.com |
+|`assets/images/jenga-tower.png` [2] | pngtree.com |
+|`assets/images/table-bg.jpg` [1] | vecteezy.com |
 Jenga image - pngtree.com
 Background image - vecteezy.com
 
@@ -22,4 +22,5 @@ Background image - vecteezy.com
 
 (ACM-formatted references connected to in-text or code citations)
 Please refer to the class examples for the appropriate format of the README File.
-test test test
+Wirakorn Deelert. 2025. Table Background Vector Art, Icons, and Graphics for Free Download. (2025). Retrieved May 13, 2026 from https://www.vecteezy.com/vector-art/8774343-illustration-vector-wood-table-floor-and-blurred-background-atmosphere-front-room-light-shining-through-the-curtain-in-home
+YusefDon. 2025. Jenga PNG, Vector, PSD, and Clipart With Transparent Background for Free Download | Pngtree. (2025). Retrieved May 13, 2026 from https://pngtree.com/freepng/wooden-jenga-tower_20850718.html
